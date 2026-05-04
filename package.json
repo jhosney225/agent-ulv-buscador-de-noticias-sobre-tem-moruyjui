@@ -1,0 +1,6 @@
+{
+  "name": "agent-ulv-buscador-de-noticias-sobre-tem-moruyjui",
+  "version": "1.0.0",
+  "description": "Proyecto de Ulv [Gen22]: buscador de noticias sobre temas de interes",
+  "main": "index.js"
+}
